@@ -114,7 +114,7 @@ button{
 }
 
 #coin-wrap{
-	background: #00BF4499;
+	background: linear-gradient(180deg, #00BF4499, #0009);
 	width: 15rem;
 	height: 15rem;
 	display: flex;
@@ -129,7 +129,7 @@ button{
 	width: 80%;
 	background: #414844;
 	border-radius: 50%;
-	border: 2px outset #414844;
+	border: 2px outset #41484477;
 }
 
 #tabs{
